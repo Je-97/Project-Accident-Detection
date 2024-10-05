@@ -43,6 +43,7 @@ Performance Metrics:
 
 # Challenges
 The primary challenge involved the dataset's complexity. Initially, the model misclassified large vehicles, like trucks, as accidents. We addressed this by adding more diverse images and creating a new class in the YAML configuration, improving the model's accuracy.
+
  ![image](https://github.com/user-attachments/assets/0aca61f5-6c29-483f-859f-2deef5cab99c)
 
 
