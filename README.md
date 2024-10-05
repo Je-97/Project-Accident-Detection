@@ -1,4 +1,4 @@
-![RASD logo](https://github.com/user-attachments/assets/0d3a4f96-9f51-48e3-93b5-1fcd4174fe20)
+<img src="https://github.com/Haya-Almalki/Project-Accident-Detection/blob/main/streamlit%20deploy/RASD%20logo.png" alt="RASD Logo" width="500" height="250"/>
 
 # Accident Deection Projct
 ## (Real-Time Accident Detection and Classification for Enhanced Analysis)
@@ -12,12 +12,12 @@ We surveyed Riyadh residents to understand how accidents affect daily traffic fl
 ![image](https://github.com/user-attachments/assets/71651012-7e89-4dc5-91a4-f14ea0e4213e)
 
 # Solution Architecture
-![image](https://github.com/user-attachments/assets/fcae5308-e07d-4a3a-82c2-0ee863823a31)
+![solution_arc](https://github.com/user-attachments/assets/539b5032-7914-4737-895d-7f6dd4dd3c4a)
 
 # Dataset
-Source: 12,000 images from Roboflow, labeled into two classes: Accident and Severe Accident.
-Additional Data: 461 images sourced from YouTube videos were added to enrich the dataset.
-Preprocessing: Images were resized to 640x640, with noise and blur augmentation applied to enhance model generalization.
+- Approximately 12,500 images, labeled into two classes: **Accident** and **Severe**.
+- Preprocessing Images were resized to 640x640, with noise and blur augmentation applied to enhance model generalization.
+- Sources:
 1. [Roboflow](https://universe.roboflow.com/accident-test-set/accident-test-set/dataset/4).
 2. youtube videos for accident.
 
