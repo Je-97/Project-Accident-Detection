@@ -54,13 +54,7 @@ The primary challenge involved the dataset's complexity. Initially, the model mi
 https://github.com/user-attachments/assets/c39f19da-5f78-4026-b865-3355fd9df104
 
 
-# Future Work 
-Adding more classes to capture different types of road incidents.
-Deploying the model on dashcams in passing vehicles to further improve real-time response capabilities.
-Diversifying the dataset to enhance performance in varying traffic conditions.
 
-# Conclusion
-This project demonstrates significant potential for improving road safety and reducing response times for accidents. By enabling faster identification and categorization of incidents, authorities can take swift action to manage traffic and ensure safer roads.
 
 # Team Members:
 1. Haya Almalki
