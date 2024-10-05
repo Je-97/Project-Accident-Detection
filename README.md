@@ -25,9 +25,9 @@ Preprocessing: Images were resized to 640x640, with noise and blur augmentation 
 Model: YOLOv8
 Training Configuration: 50 epochs, batch size of 16.
 Performance Metrics:
-Precision: 92%
-Recall: 88%
-mAP@0.5: 93%
+- mAP@0.5: 93%
+- Recall: 85%
+- Precision: 92%
    ![image](https://github.com/user-attachments/assets/2adf6868-1d9a-4e27-a4b4-b1e59930f782)
 
    
@@ -60,3 +60,8 @@ Diversifying the dataset to enhance performance in varying traffic conditions.
 
 # Conclusion
 This project demonstrates significant potential for improving road safety and reducing response times for accidents. By enabling faster identification and categorization of incidents, authorities can take swift action to manage traffic and ensure safer roads.
+
+# Team Members:
+1. Haya Almalki
+2. Jehan Almutairi
+3. Hanan Mohammed
