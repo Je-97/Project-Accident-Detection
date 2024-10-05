@@ -1,4 +1,4 @@
-<img src="https://github.com/Haya-Almalki/Project-Accident-Detection/blob/main/streamlit%20deploy/RASD%20logo.png" alt="RASD Logo" width="500" height="250"/>
+<img src="https://github.com/Haya-Almalki/Project-Accident-Detection/blob/main/streamlit%20deploy/RASD%20logo.png" alt="RASD Logo" width="500" height="260"/>
 
 # Accident Deection Projct
 ## (Real-Time Accident Detection and Classification for Enhanced Analysis)
