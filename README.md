@@ -1,4 +1,5 @@
-![RASD logo](https://github.com/user-attachments/assets/0d3a4f96-9f51-48e3-93b5-1fcd4174fe20)
+
+![logo](https://github.com/user-attachments/assets/4e3480b8-926c-4da0-8792-119bc9c2272f)
 
 # Accident Deection Projct
 ## (Real-Time Accident Detection and Classification for Enhanced Analysis)
@@ -9,15 +10,16 @@ Traffic congestion is a major issue in rapidly growing cities like Riyadh, with 
 
 # Dashboard:
 We surveyed Riyadh residents to understand how accidents affect daily traffic flow. The survey explored residents' perceptions of congestion caused by accidents and its impact on the city’s transportation network. Results findings are presented in a dashboard, offering a clear visualization of respondents' feedback.
+
 ![image](https://github.com/user-attachments/assets/71651012-7e89-4dc5-91a4-f14ea0e4213e)
 
 # Solution Architecture
-![image](https://github.com/user-attachments/assets/fcae5308-e07d-4a3a-82c2-0ee863823a31)
+![solution_arc](https://github.com/user-attachments/assets/539b5032-7914-4737-895d-7f6dd4dd3c4a)
 
 # Dataset
-Source: 12,000 images from Roboflow, labeled into two classes: Accident and Severe Accident.
-Additional Data: 461 images sourced from YouTube videos were added to enrich the dataset.
-Preprocessing: Images were resized to 640x640, with noise and blur augmentation applied to enhance model generalization.
+- Approximately 12,500 images, labeled into two classes: **Accident** and **Severe**.
+- Preprocessing Images were resized to 640x640, with noise and blur augmentation applied to enhance model generalization.
+- Sources:
 1. [Roboflow](https://universe.roboflow.com/accident-test-set/accident-test-set/dataset/4).
 2. youtube videos for accident.
 
