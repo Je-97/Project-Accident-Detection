@@ -10,6 +10,7 @@ Traffic congestion is a major issue in rapidly growing cities like Riyadh, with 
 
 # Dashboard:
 We surveyed Riyadh residents to understand how accidents affect daily traffic flow. The survey explored residents' perceptions of congestion caused by accidents and its impact on the city’s transportation network. Results findings are presented in a dashboard, offering a clear visualization of respondents' feedback.
+
 ![image](https://github.com/user-attachments/assets/71651012-7e89-4dc5-91a4-f14ea0e4213e)
 
 # Solution Architecture
